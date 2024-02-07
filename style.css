@@ -14,12 +14,25 @@ body {
 	color: #fff;
 }
 .red {
+<<<<<<< HEAD
 	background-color: #f5f0f0;
     color: #000;
+=======
+	background-color: #f9f8f8;
+	color: #0c0c0c;
+>>>>>>> other
 	height: 300px;
 	width: 500px;
 	border: 2px solid rgb(1, 2, 1);
 	border-radius: 30px;
 	padding: 20px;
 	margin: 100px auto;
+}
+.color-button {
+	padding: 7px;
+	border: none;
+	background-color: #17fb0b;
+	border: 1px solid rgba(6, 6, 6, 0.968);
+	border-radius: 5px;
+	margin: 40px;
 }
