@@ -10,7 +10,15 @@ body {
 .navbar {
 	background: #212020;
 }
-.navbar-brand{
-    color: #fff;
-
+.navbar-brand {
+	color: #fff;
+}
+.red {
+	background-color: #310909;
+	height: 300px;
+	width: 500px;
+	border: 2px solid rgb(1, 2, 1);
+	border-radius: 30px;
+	padding: 20px;
+	margin: 100px auto;
 }
